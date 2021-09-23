@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, This is Deepayan Thakur 👋</h1>
+<h1 align="center">👋 Hi there, This is Deepayan Thakur </h1>
 <!--- ### Hi there, This is Deepayan Thakur 👋--->
 
 - 🔭 I’m currently working on a Unique and Adventurous ... 
