@@ -11,16 +11,9 @@
 
 <h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Deepayan-Thakur&label=Total%20views&color=009E8E&style=metal" alt="Deepayan-Thakur" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-  
-<a href="https://twitter.com/DeepayanThakur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Deepayan-Thakur" height="30" width="40" />
-  
-<a href="https://www.linkedin.com/in/deepayan-thakur-5bb2aa215/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Deepayan-Thakur" height="30" width="40" />
-  
-<a href="https://github.com/Deepayan-Thakur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Deepayan-Thakur" height="30" width="40" /></a>
+<p align="center"> <img align="center" src="https://komarev.com/ghpvc/?username=Deepayan-Thakur&label=Total%20views&color=0088ff&style=metal" alt="Deepayan-Thakur">
+</p>
+<a align="center" href="https://twitter.com/DeepayanThakur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Deepayan-Thakur" height="30" width="40" />
 </p>
 
 <!---<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepayan-Thakur&show_icons=true&locale=en&layout=compact" alt="Deepayan-Thakur" /></p>
