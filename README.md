@@ -11,10 +11,10 @@
 
 <h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Deepayan-Thakur&label=Total%20views&color=009E8E&style=metal" alt="Deepayan-Thakur" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Deepayan-Thakur&label=Total%20views&color=009E8E&style=metal" alt="Deepayan-Thakur" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
   
 <a href="https://twitter.com/DeepayanThakur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Deepayan-Thakur" height="30" width="40" /></a>
   
