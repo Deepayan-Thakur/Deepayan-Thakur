@@ -23,8 +23,8 @@
 <a href="https://github.com/Deepayan-Thakur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Deepayan-Thakur" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepayan-Thakur&show_icons=true&locale=en&layout=compact" alt="Deepayan-Thakur" /></p>
-
+<!---<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepayan-Thakur&show_icons=true&locale=en&layout=compact" alt="Deepayan-Thakur" /></p>
+--->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Deepayan-Thakur&show_icons=true&locale=en" alt="Deepayan-Thakur" /></p>
 
 
