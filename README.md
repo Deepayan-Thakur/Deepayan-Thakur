@@ -25,6 +25,6 @@
 
 <!---<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepayan-Thakur&show_icons=true&locale=en&layout=compact" alt="Deepayan-Thakur" /></p>
 --->
-<p>&nbsp;<align="center" src="https://github-readme-stats.vercel.app/api?username=Deepayan-Thakur&show_icons=true&locale=en" alt="Deepayan-Thakur" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Deepayan-Thakur&show_icons=true&locale=en" alt="Deepayan-Thakur" /></p>
 
 
