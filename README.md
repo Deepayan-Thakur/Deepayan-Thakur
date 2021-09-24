@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hi there, This is Deepayan Thakur </h1>
+<!---<h1 align="center">👋 Hi there, This is Deepayan Thakur </h1>--->
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Deepayan Thakur</h1>
+
 <!--- ### Hi there, This is Deepayan Thakur 👋--->
 
 - 🔭 I’m currently working on a Unique and Adventurous ... 
