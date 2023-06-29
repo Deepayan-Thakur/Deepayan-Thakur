@@ -17,7 +17,7 @@
 <!---<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepayan-Thakur&show_icons=true&locale=en&layout=compact" alt="Deepayan-Thakur" /></p>
 --->
 </p>
-<p align="center"> <a href="https://www.instagram.com/deepayan_thakur/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a> </p>
+<p align="center"> <a href="https://www.instagram.com/deepayan_thakur/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" ></a> </p>
 
 
 <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Deepayan-Thakur&show_icons=true&theme=radical" alt="Deepayan-Thakur" />
@@ -26,6 +26,6 @@
 
 <h3 align="center">Follow Me :</h3> 
 <p align="center">
-<a href="https://www.instagram.com/deepayan_thakur/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Deepayan-Thakur" height="30" width="40" /></a>
-<a href="https://github.com/Deepayan-Thakur" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Deepayan-Thakur" height="30" width="40" /></a>
+<a href="https://www.instagram.com/deepayan_thakur/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Deepayan-Thakur" height="30" width="40" /></a>
+<a href="https://github.com/Deepayan-Thakur" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Deepayan-Thakur" height="30" width="40" /></a>
 </p>
