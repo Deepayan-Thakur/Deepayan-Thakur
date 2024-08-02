@@ -103,7 +103,7 @@
 
 <p align = "center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deepayan-Thakur&show_icons=true&theme=radical" alt="Deepayan-Thakur" />
-<a align="center" href="https://github-readme-stats.vercel.app/api?username=Deepayan-Thakur&show_icons=true&theme=radical" target="blank">
+<a href="https://github-readme-stats.vercel.app/api?username=Deepayan-Thakur&show_icons=true&theme=radical" target="blank">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepayan-Thakur&theme=radical" alt="Deepayan-Thakur"/>
 </p>
 
