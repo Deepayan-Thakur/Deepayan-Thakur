@@ -102,13 +102,13 @@
 
 
 <p align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=Deepayan-Thakur&show_icons=true&theme=radical" alt="Deepayan-Thakur" />
-<a href="https://github-readme-stats.vercel.app/api?username=Deepayan-Thakur&show_icons=true&theme=radical" target="blank">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepayan-Thakur&theme=radical" alt="Deepayan-Thakur"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Deepayan-Thakur&show_icons=true&theme=radical" alt="Deepayan-Thakur" />
+<a align="center" href="https://github-readme-stats.vercel.app/api?username=Deepayan-Thakur&show_icons=true&theme=radical" target="blank">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepayan-Thakur&theme=radical" alt="Deepayan-Thakur"/>
 </p>
 
 <h3 align="center">Follow Me :</h3> 
 <p align="center">
-<a href="https://www.instagram.com/deepayan_thakur/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Deepayan-Thakur" height="30" width="40" /></a>
-<a href="https://github.com/Deepayan-Thakur" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Deepayan-Thakur" height="30" width="40" /></a>
+<a align="center" href="https://www.instagram.com/deepayan_thakur/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Deepayan-Thakur" height="30" width="40" /></a>
+<a align="center" href="https://github.com/Deepayan-Thakur" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Deepayan-Thakur" height="30" width="40" /></a>
 </p>
