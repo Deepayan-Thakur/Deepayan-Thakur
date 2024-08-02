@@ -22,7 +22,7 @@
 <a href="https://www.leetcode.com/deepayankv8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepayankv8" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Tools Used:</h3>
+<h3 align="center">Tools I know:</h3>
 <p align="center">
   <!-- Tools (left side) -->
   <span>
@@ -62,7 +62,7 @@
   </span>
 </p>
 
-<h3 align="center">Languages Used: </h3>
+<h3 align="center">Languages I know: </h3>
 <p align="center">
   <!-- Languages (right side) -->
   <span>
