@@ -101,7 +101,7 @@
 <p align="center"> <a href="https://www.instagram.com/deepayan_thakur/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" ></a> </p>
 
 
-<p align = "center">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deepayan-Thakur&show_icons=true&theme=radical" alt="Deepayan-Thakur" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepayan-Thakur&theme=radical" alt="Deepayan-Thakur"/>
 </p>
