@@ -3,6 +3,8 @@
 
 <!--- ### Hi there, This is Deepayan Thakur 👋--->
 
+<img align="right" alt="Deepayan-Thakur" width="400" src="https://github.com/Deepayan-Thakur/Deepayan-Thakur/blob/main/Deepayan-Thakur-gif.gif">
+
 - 🔭 I’m currently working on a Unique and Adventurous idea... 
 - 🌱 I’m currently learning Deep Learning ...
 - 💬 Ask me about any help in programming ...
@@ -11,6 +13,7 @@
 - ⚡ Fun fact: “I would like to meet (and even have lunch with), The GOD” ...
 - 📧 Email me at **deepayankv8@gmail.com**
 
+<br>
 <h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>
 
 
