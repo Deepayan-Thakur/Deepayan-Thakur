@@ -14,6 +14,7 @@
 - 📧 Email me at **deepayankv8@gmail.com**
 
 <br>
+<hr>
 <h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>
 
 
