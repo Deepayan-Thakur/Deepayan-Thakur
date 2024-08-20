@@ -28,7 +28,7 @@
 </picture>
 
 ![Deepayan's GitHub activity
-graph](https://github-readme-activity-graph.vercel.app/graph?username=Deepayan-Thakur&bg_color=0D1117&color=9C27B0&line=E91E63&point=FF5722&area=true&hide_border=true)]
+graph](https://github-readme-activity-graph.vercel.app/graph?username=Deepayan-Thakur&bg_color=0D1117&color=9C27B0&line=E91E63&point=FF5722&area=true&hide_border=true)
 
 
 <hr>
