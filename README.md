@@ -15,6 +15,23 @@
 
 <br>
 <hr>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with
+        different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<picture  align="center">
+ 
+   <source media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation"
+        src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
+![Deepayan's GitHub activity
+graph](https://github-readme-activity-graph.vercel.app/graph?username=Deepayan-Thakur&bg_color=0D1117&color=9C27B0&line=E91E63&point=FF5722&area=true&hide_border=true)]
+
+
+<hr>
 <h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>
 
 
