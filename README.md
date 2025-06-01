@@ -3,6 +3,7 @@
 
 <!--- ### Hi there, This is Deepayan Thakur 👋--->
 
+<img src="https://github.com/Deepayan-Thakur/Deepayan-Thakur/blob/main/banner_deepayan.gif" align="right" width="400px"></img>
 
 - 🔭 I’m currently working on a Unique and Adventurous idea... 
 - 🌱 I’m currently learning Deep Learning ...
