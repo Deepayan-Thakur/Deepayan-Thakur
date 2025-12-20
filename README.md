@@ -126,7 +126,7 @@ graph](https://github-readme-activity-graph.vercel.app/graph?username=Deepayan-T
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deepayan-Thakur&show_icons=true&theme=tokyonight" alt="Deepayan-Thakur" />
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Deepayan-Thakur?cardType=level&theme=radical&fontFamily=Roboto%20Flex&preferLogin=false" alt="Deepayan-Thakur" />
 </p>
 
 <h3 align="center">Follow Me :</h3> 
