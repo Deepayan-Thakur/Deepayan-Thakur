@@ -1,6 +1,6 @@
 <!---<h1 align="center">👋 Hi there, This is Deepayan Thakur </h1>--->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Deepayan Thakur</h1>
-
+happy new year 2026
 <!--- ### Hi there, This is Deepayan Thakur 👋--->
 
 <img src="https://github.com/Deepayan-Thakur/Deepayan-Thakur/blob/main/banner_deepayan.gif" align="right" width="400px"></img>
