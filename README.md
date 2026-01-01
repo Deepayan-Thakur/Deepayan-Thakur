@@ -1,6 +1,8 @@
 <!---<h1 align="center">👋 Hi there, This is Deepayan Thakur </h1>--->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Deepayan Thakur</h1>
-happy new year 2026
+<p align="center">
+  <strong>Happy New Year 2026 🩸</strong>
+</p>
 <!--- ### Hi there, This is Deepayan Thakur 👋--->
 
 <img src="https://github.com/Deepayan-Thakur/Deepayan-Thakur/blob/main/banner_deepayan.gif" align="right" width="400px"></img>
@@ -27,8 +29,7 @@ happy new year 2026
         src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
-![Deepayan's GitHub activity
-graph](https://github-readme-activity-graph.vercel.app/graph?username=Deepayan-Thakur&bg_color=0D1117&color=9C27B0&line=E91E63&point=FF5722&area=true&hide_border=true)
+![Deepayan's GitHub activitygraph](https://github-readme-activity-graph.vercel.app/graph?username=Deepayan-Thakur&bg_color=000000&color=9B111E&line=FF1A1A&point=FF4D4D&area=true&hide_border=true)
 
 
 <hr>
