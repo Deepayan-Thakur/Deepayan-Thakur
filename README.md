@@ -29,7 +29,7 @@
         src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
-![Deepayan's GitHub activitygraph](https://github-readme-activity-graph.vercel.app/graph?username=Deepayan-Thakur&bg_color=000000&color=9B111E&line=FF1A1A&point=FF4D4D&area=true&hide_border=true)
+![Deepayan's GitHub activitygraph](https://github-readme-activity-graph.vercel.app/graph?username=Deepayan-Thakur&bg_color=0d1016&color=98FB98&line=99fb86&point=99fb99&area=true&hide_border=true)
 
 
 <hr>
