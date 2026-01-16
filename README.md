@@ -5,7 +5,7 @@
 </p>
 <!--- ### Hi there, This is Deepayan Thakur 👋--->
 
-<img src="https://github.com/Deepayan-Thakur/Deepayan-Thakur/blob/main/banner_deepayan.gif" align="right" width="400px"></img>
+<img src="https://github.com/user-attachments/assets/224eb46c-93d9-488e-bfc6-e2c4f6246ecc" align="right" width="400px"></img>
 
 - 🔭 I’m currently working on a Unique and Adventurous idea... 
 - 🌱 I’m currently learning "Agentic Ai" ...
