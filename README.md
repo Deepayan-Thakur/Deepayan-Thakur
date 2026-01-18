@@ -144,7 +144,7 @@
 <h2 align="center">🧠 Problem Solving Grind</h2>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/JacobLinCool?theme=light&font=Noto%20Sans%20Gothic"/>
+  <img src="https://leetcard.jacoblin.cool/deepayankv8?theme=light&font=Noto%20Sans%20Gothic&ext=heatmap"/>
 </p>
 
 <p align="center">
