@@ -112,7 +112,10 @@
   </span>
 </p>
 
-
+<!-- ===================== HERO SOCIAL ===================== -->
+<p align="center">
+  <b>⭐ If my work helps you, drop a star — it genuinely helps!</b>
+</p>
 
 
 <p align="center"> <img align="center" src="https://komarev.com/ghpvc/?username=Deepayan-Thakur&label=Total%20views&color=0088ff&style=metal" alt="Deepayan-Thakur">
@@ -120,18 +123,44 @@
 --->
 </p>
 
-<p align="center"> <a href="https://www.instagram.com/deepayan_thakur/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" ></a> </p>
 
 <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepayan-Thakur&theme=radical" alt="Deepayan-Thakur" />
+  <i>🚀 Building. Breaking. Learning. Repeating.</i>
+</p>
+
+---
+
+<!-- ===================== STATS SECTION ===================== -->
+<h2 align="center">📊 Developer Stats</h2>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepayan-Thakur&theme=radical" />
+  <img width="48%" src="https://awesome-github-stats.azurewebsites.net/user-stats/Deepayan-Thakur?cardType=level&theme=radical&fontFamily=Roboto%20Flex&preferLogin=false" />
+</p>
+
+---
+
+<!-- ===================== CODING PROOF ===================== -->
+<h2 align="center">🧠 Problem Solving Grind</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/JacobLinCool?theme=light&font=Noto%20Sans%20Gothic"/>
 </p>
 
 <p align="center">
-        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Deepayan-Thakur?cardType=level&theme=radical&fontFamily=Roboto%20Flex&preferLogin=false" alt="Deepayan-Thakur" />
+  <i>Consistency > Talent. Every. Single. Time.</i>
 </p>
 
-<h3 align="center">Follow Me :</h3> 
+---
+
+<!-- ===================== FOLLOW CTA ===================== -->
+<h2 align="center">🌐 Connect With Me</h2>
+
 <p align="center">
-<a align="center" href="https://www.instagram.com/deepayan_thakur/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Deepayan-Thakur" height="30" width="40" /></a>
-<a align="center" href="https://github.com/Deepayan-Thakur" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Deepayan-Thakur" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/deepayan_thakur/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="40"/>
+  </a>
+  <a href="https://github.com/Deepayan-Thakur" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="40"/>
+  </a>
 </p>
