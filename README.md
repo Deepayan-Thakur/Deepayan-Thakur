@@ -134,8 +134,9 @@
 <h2 align="center">📊 Developer Stats</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepayan-Thakur&theme=radical" />
-  <img width="48%" src="https://awesome-github-stats.azurewebsites.net/user-stats/Deepayan-Thakur?cardType=level&theme=radical&fontFamily=Roboto%20Flex&preferLogin=false" />
+  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=Deepayan-Thakur&theme=radical&hide_border=false" />
+  <img width="42.5%" src="https://awesome-github-stats.azurewebsites.net/user-stats/Deepayan-Thakur?cardType=level&theme=radical" />
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepayan-Thakur&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 ---
