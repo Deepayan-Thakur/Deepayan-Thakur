@@ -107,20 +107,17 @@ class DepayanThakur:
 
 <div align="center">
 
-| 🚀 Project | 🛠️ Stack | 🔥 Vibe |
-|:---|:---|:---|
-| **Brain-to-Text '25** 🧠 | Transformer + LSTM, 256 microelectrodes, Kaggle T4 GPUs | Decoding thought into language |
-| **LIS Hybrid BCI System** 🔬 | EEG/EMG, SVM/LSTM/CNN, DistilBERT NLP | Full-stack neural interface |
-| **EAMIS — ETH/USDT Predictor** 📈 | Temporal Fusion Transformer, Dilated TCN, Binance data | Predicting markets with science |
-| **VisionSound AI Studio** 🎬 | Claude API, Hugging Face, Ken Burns, track-based editor | Autonomous audio-to-video agent |
-| **StudyGrid** 📚 | Vanilla JS, 52-week heatmap, 170 DSA problems | GitHub-inspired study OS |
-| **HSN Trade Analytics** 🏛️ | LSTM + Flask + Matplotlib, DPIIT | 93% accuracy on sector forecasting |
-| **Delhi Drive 3D** 🚗 | Three.js, 6 landmarks, NPC traffic, physics | Open-world Delhi in the browser |
-| **GitForge** 🔧 | Node.js, Express, GitHub API, session auth | Full browser-based Web IDE |
-| **Medicinal Plant Detector** 🌿 | ConvNeXt Tiny, 40+ classes, .pth format | AI botanist in your pocket |
-| **VibezLang** 💬 | Custom language, OOP via `vibe`/`vibe_fn`/`me` | Building a programming language from scratch |
+| Work                                          | Tech Stack                                    | Overview                                                                                                                                 |
+| :-------------------------------------------- | :-------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
+| Transformer-Based Brain-to-Text System (2026) | Transformer, intracortical data, Beam Search  | High-fidelity neural decoding with 98.23% accuracy, reduced CER to 21.53%,  ([IEEE Paper](https://ieeexplore.ieee.org/document/11465389/)) |
+| BCI Communication Systems Review (2025)       | EEG/EMG, CNN/LSTM/3D-CNN, transfer learning   | Comprehensive analysis of hybrid BCI systems for LIS, ([IEEE Paper](https://ieeexplore.ieee.org/document/11325607/))                       |
+| StudyGrid                                     | Vanilla JS, 52-week heatmap, 170 DSA problems | Structured study tracking system                                                                                                         |
+| HSN Trade Analytics                           | LSTM, Flask, Matplotlib, DPIIT                | Sector-level trade forecasting                                                                                                           |
+| Medicinal Plant Detector                      | ConvNeXt Tiny, 40+ classes, .pth              | AI-powered plant classification                                                                                                          |
 
 </div>
+
+
 
 ---
 
