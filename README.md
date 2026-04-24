@@ -216,11 +216,10 @@ Frontend Development              ████████████░░░�
 
 | Epoch | Milestone | Dept |
 | :--- | :--- | :--- |
-| **2026** | **B.Tech CSE (AI & ML)** • Sharda University | 🎓 EDU |
-| **2026** | Brain-to-Text Transformer • **IEEE Published** | 📝 R&D |
-| **2025** | Accenture Hackathon • **Winner** | 💡 HACK |
-| **2024** | Defence AI Research • **DRDO** | 🛡️ GOV |
-| **2024** | 93% Forecasting Accuracy • **DPIIT** | 📊 DATA |
+| **2026** | **B.Tech CSE (AI & ML) - Graduate** • Sharda University | 🎓 EDU |
+| **2026** | Brain-to-Text Transformer Research • **IEEE Published** | 📝 R&D |
+| **2025** | Learn Forecasting • **DPIIT** | 📊 DATA Analysis |
+| **2024** | Defence AI Research • **DRDO** | 🛡️ GOVT Internship |
 
 </div>
 
