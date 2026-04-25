@@ -233,7 +233,7 @@ Full-stack development and AI model integration across client-facing web product
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Deepayan-Thakur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c77dff&icon_color=4361ee&text_color=e0e0e0&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/Deepayan-Thakur?card_type=level&theme=tokyonight&border=false&background=0d1117&ring=c77dff&fire=e0aaff&currStreakLabel=c77dff&sideLabels=ffffff&sideNums=e0aaff&dates=888888" width="49%"/>
 
 <img src="https://streak-stats.demolab.com/?user=Deepayan-Thakur&theme=tokyonight&hide_border=true&background=0d1117&ring=c77dff&fire=e0aaff&currStreakLabel=c77dff&sideLabels=ffffff&sideNums=e0aaff&dates=888888" width="49%"/>
 
