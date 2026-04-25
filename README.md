@@ -22,7 +22,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Internships-4_Completed-7b2fbe?style=flat-square&labelColor=1a1a2e"/>
 &nbsp;
-<img src="https://img.shields.io/badge/IEEE_Papers-2_Published-4361ee?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/IEEE_Papers-3_Published-4361ee?style=flat-square&labelColor=1a1a2e"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open_to_Work-48cae4?style=flat-square&labelColor=1a1a2e"/>
 
@@ -117,6 +117,7 @@ class DeepayanThakur:
 | Project | Stack | Highlight | Link |
 |---|---|---|---|
 | **Brain-to-Text BCI** | Transformer · LSTM · PyTorch | 98.23% Accuracy · IEEE Published | [View ↗](https://ieeexplore.ieee.org/document/11465389/) |
+| **Skin Disease Prediction** | Deep Learning · CNN · PyTorch | 89% Accuracy · IEEE Published | [View ↗](https://ieeexplore.ieee.org/document/11465623/) |
 | **Hybrid BCI Review** | CNN · LSTM · 3D-CNN | LIS patient BCI · IEEE Published | [View ↗](https://ieeexplore.ieee.org/document/11325607/) |
 | **HSN Trade Analytics** | LSTM · Flask · Pandas | 93% Forecast Accuracy · DPIIT | Internal |
 | **Medicinal Plant Detector** | ConvNeXt · PyTorch | 40+ plant classes | Private |
@@ -133,26 +134,49 @@ class DeepayanThakur:
 
 <table>
 <tr>
-<td align="center" width="50%">
 
-**Brain-to-Text BCI Transformer**
+<td align="center" width="33.33%">
+
+<b>Brain-to-Text BCI Transformer</b>
 <br/><sub>IEEE Xplore · 2026</sub>
 <br/><br/>
-Transformer + LSTM pipeline that decodes intracortical neural signals into text with <b>98.23% accuracy</b>. Trained on dual-GPU Kaggle environment with HDF5 neural inputs.
-<br/><br/>
-<a href="https://ieeexplore.ieee.org/document/11465389/"><img src="https://img.shields.io/badge/Read_Paper-00629B?style=flat-square&logo=ieee&logoColor=white"/></a>
+
+Transformer + LSTM pipeline for decoding intracortical neural signals into text with <b>98.23% accuracy</b>. Trained on HDF5 neural datasets using a dual-GPU Kaggle setup.
+
+<a href="https://ieeexplore.ieee.org/document/11465389/">
+<img src="https://img.shields.io/badge/Read_Paper-00629B?style=flat-square&logo=ieee&logoColor=white"/>
+</a>
 
 </td>
-<td align="center" width="50%">
 
-**Hybrid BCI for LIS Patients**
+<td align="center" width="33.33%">
+
+<b>Skin Disease Prediction</b>
 <br/><sub>IEEE Xplore · 2026</sub>
 <br/><br/>
-Review of CNN, LSTM, and 3D-CNN hybrid architectures for Brain-Computer Interfaces, focused on restoring communication for patients with Locked-In Syndrome.
-<br/><br/>
-<a href="https://ieeexplore.ieee.org/document/11325607/"><img src="https://img.shields.io/badge/Read_Paper-00629B?style=flat-square&logo=ieee&logoColor=white"/></a>
+
+CNN-based deep learning model for multi-class skin disease classification with <b>99% accuracy</b>. Trained using a dual-GPU Kaggle environment.
+
+<a href="https://ieeexplore.ieee.org/document/11465623">
+<img src="https://img.shields.io/badge/Read_Paper-00629B?style=flat-square&logo=ieee&logoColor=white"/>
+</a>
 
 </td>
+
+<td align="center" width="33.33%">
+
+<b>Hybrid BCI for LIS Patients</b>
+<br/><sub>IEEE Xplore · 2026</sub>
+<br/><br/>
+
+Study of hybrid CNN, LSTM, and 3D-CNN architectures for Brain-Computer Interfaces, focused on enabling communication for Locked-In Syndrome patients.
+
+<a href="https://ieeexplore.ieee.org/document/11325607/">
+<img src="https://img.shields.io/badge/Read_Paper-00629B?style=flat-square&logo=ieee&logoColor=white"/>
+</a>
+
+</td>
+
 </tr>
 </table>
 
@@ -275,6 +299,6 @@ Full-stack development and AI model integration across client-facing web product
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=Let%27s+build+something+extraordinary+together&fontSize=16&fontColor=e0aaff&animation=twinkling&fontAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=Let%27s+build+something+extraordinary+together&fontSize=16&fontColor=00ffff&animation=twinkling&fontAlignY=55"/>
 
 </div>
