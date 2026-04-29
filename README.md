@@ -52,8 +52,9 @@ class DeepayanThakur:
     ]
 
     research    = [
-        "📄  Brain-to-Text BCI Transformer  — 98.23% Accuracy  [IEEE 2026]",
+        "📄  Brain-to-Text BCI Transformer  — 98.23% Accuracy  [IEEE 2025]",
         "📄  Hybrid BCI Review (LIS Patients) — CNN+LSTM+3D-CNN [IEEE 2026]",
+        "📄  Skin Disease Prediction — CNN+Skin Diseaase Images [IEEE 2026]",
     ]
 
     currently   = {
