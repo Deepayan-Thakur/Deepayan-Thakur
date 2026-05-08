@@ -32,7 +32,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About-Me
 
 ```python
 class DeepayanThakur:
