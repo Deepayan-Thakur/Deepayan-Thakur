@@ -123,9 +123,6 @@ class DeepayanThakur:
 | **HSN Trade Analytics** | LSTM · Flask · Pandas | 93% Forecast Accuracy · DPIIT | Internal |
 | **Medicinal Plant Detector** | ConvNeXt · PyTorch | 40+ plant classes | Private |
 | **GRIND.EXE** | Vanilla JS · GitHub Gist | 150+ DSA problems · Heatmap tracker | [Repo ↗](https://github.com/Deepayan-Thakur/grind-exe) |
-| **Accenture Hackathon** | Python · Gemini API | Markdown → PowerPoint · 🏆 Winner | — |
-| **VisionSound AI Studio** | JS · Web Audio API | Autonomous audio-to-video agent | Private |
-| **EAMIS ETH/USDT** | TFT · FinBERT · Binance | Temporal Fusion Transformer trading | Kaggle |
 </div>
 ---
 
